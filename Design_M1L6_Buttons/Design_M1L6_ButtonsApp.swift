@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Design_M1L1_ButtonsApp: App {
+struct Design_M1L6_ButtonsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
